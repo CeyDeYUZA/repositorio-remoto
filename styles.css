@@ -1,0 +1,25 @@
+body {
+    background-color: #f0f0f0; /* Gris claro */
+    font-family: Arial, sans-serif; /* Tipo de letra */
+    margin: 0;
+    padding: 0;
+  }
+  
+  .color {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    display: inline-block;
+  }
+  
+  .btn-start {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  
+  
